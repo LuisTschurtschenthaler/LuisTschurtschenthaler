@@ -15,7 +15,7 @@
 
 ## 🌎 Most used languages
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisTschurtschenthaler&hide=html,css,javascript&bg_color=#00000000" style="margin-bottom: 5px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisTschurtschenthaler&hide=html,css,javascript&theme=dark" style="margin-bottom: 5px;" />
 </div>
 
 <br />
