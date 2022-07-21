@@ -7,7 +7,7 @@
 <br />
 
 ## 🔔 GitHub Stats
-<div align="center">
+<div align="left">
   <img src="https://metrics.lecoq.io/LuisTschurtschenthaler?template=classic&base.header=0&gists=1&lines=1&config.timezone=Italy%2FToronto" style="margin-bottom: 5px;" />
 </div>
 
@@ -22,7 +22,7 @@
 
 ## 📈 GitHub Streak
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisTschurtschenthaler&theme=dark&hide_border=true" style="margin-bottom: 5px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisTschurtschenthaler&theme=dark&hide_border=true&background=00000000" style="margin-bottom: 5px;" />
 </div>
 
 <br />
