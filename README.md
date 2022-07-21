@@ -14,21 +14,21 @@
 <br />
 
 ## 🌎 Most used languages
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisTschurtschenthaler&hide=html,css,javascript" style="margin-bottom: 5px;" />
 </div>
 
 <br />
 
 ## 📈 GitHub Streak
-<div align="center">
+<div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisTschurtschenthaler&theme=dark&hide_border=true" style="margin-bottom: 5px;" />
 </div>
 
 <br />
 
 ## 🔗 Connect with me
-<div align="center">
+<div align="left">
   <a href="https://github.com/LuisTschurtschenthaler" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white_alt=github" style="margin-bottom: 5px;" />
   </a>
