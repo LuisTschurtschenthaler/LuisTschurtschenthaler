@@ -27,15 +27,6 @@
 
 <br />
 
-## 🔗 Connect with me
-<div align="left">
-  <a href="https://github.com/LuisTschurtschenthaler" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white_alt=github" style="margin-bottom: 5px;" />
-  </a>
-</div>
-
-<br />
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=LuisTschurtschenthaler&&style=flat-square" align="center" />
 </div>
