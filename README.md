@@ -8,7 +8,7 @@
 
 ## 🔔 GitHub Stats
 <div align="left">
-  <img src="https://metrics.lecoq.io/LuisTschurtschenthaler?template=classic&base.header=0&gists=1&lines=1&config.timezone=Italy%2FToronto" style="margin-bottom: 5px;" />
+  <img src="https://metrics.lecoq.io/LuisTschurtschenthaler" style="margin-bottom: 5px;" />
 </div>
 
 <br />
