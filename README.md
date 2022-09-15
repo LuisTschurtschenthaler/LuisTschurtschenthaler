@@ -1,7 +1,6 @@
 
 ## 😁 About me
-- 🏫 I just finished school
-- 📱 I’m currently working on some mobile apps
+- 📱 I’m currently working on a music player app 🎶
 - ⚡ Fun fact: I use tabs over spaces
 
 <br />
