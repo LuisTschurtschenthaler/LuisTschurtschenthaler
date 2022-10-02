@@ -1,10 +1,4 @@
 
-## 😁 About me
-- 📱 I’m currently working on a music player app 🎶
-- ⚡ Fun fact: I use tabs over spaces
-
-<br />
-
 ## 🔔 GitHub Stats
 <div align="left">
   <img src="https://metrics.lecoq.io/LuisTschurtschenthaler" style="margin-bottom: 5px;" />
