@@ -1,27 +1,19 @@
+# Hi there, I'm Luis! 👋
 
-## 🔔 GitHub Stats
-<div align="left">
-  <img src="https://metrics.lecoq.io/LuisTschurtschenthaler" style="margin-bottom: 5px;" />
-</div>
+## 📊 GitHub Streak
 
-<br />
+![GitHub Streak](https://streak-stats.demolab.com?user=LuisTschurtschenthaler&theme=tokyo-night&hide_border=true)
 
-## 🌎 Most used languages
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisTschurtschenthaler&hide=html,css,javascript&theme=dark" style="margin-bottom: 5px;" />
-</div>
+## 💻 Most Used Languages
 
-<br />
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisTschurtschenthaler&layout=compact&theme=tokyo-night&hide_border=true)
 
-## 📈 GitHub Streak
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisTschurtschenthaler&theme=dark&hide_border=true&background=00000000" style="margin-bottom: 5px;" />
-</div>
+## 🚀 GitHub Stats
 
-<br />
+![Luis' GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisTschurtschenthaler&show_icons=true&hide_border=true&theme=tokyo-night)
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LuisTschurtschenthaler&&style=flat-square" align="center" />
-</div>
+## 📫 Get in Touch
 
-<br />
+- Email: [business.luis.tschurtschenthaler@gmail.com](mailto:business.luis.tschurtschenthaler@gmail.com)
+
+Feel free to explore my repositories!
