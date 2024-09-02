@@ -2,7 +2,7 @@
 
 ## 💻 Most Used Languages
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisTschurtschenthaler&layout=compact&theme=tokyo-night&hide_border=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisTschurtschenthaler&layout=compact&theme=tokyo-night&hide_border=true&hide=css)
 
 ## 📊 GitHub Streak
 
