@@ -1,15 +1,125 @@
-# Hi there, I'm Luis! 👋
+<div align="center">
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# Hey, I'm Luis 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;From+South+Tyrol%2C+Italy+%F0%9F%8F%94%EF%B8%8F;Building+Web%2C+Mobile+%26+Desktop+Apps)](https://git.io/typing-svg)
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=LuisTschurtschenthaler&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisTschurtschenthaler&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=css)
+Full-stack developer building apps across web, mobile & desktop.
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:business.luis.tschurtschenthaler@gmail.com)
+&ensp;
+[![Waidblick](https://img.shields.io/badge/🔭_Currently_building-Waidblick-58A6FF?style=flat)](https://www.waidblick.it/de)
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">🦌 Waidblick</h3>
+      <p align="center">
+        <a href="https://www.waidblick.it/de"><img src="https://img.shields.io/badge/Visit_Website-58A6FF?style=for-the-badge&logoColor=white" alt="Visit" /></a>
+      </p>
+      <p align="center">Free learning platform for the South Tyrolean hunting exam. All official exam questions, hunting seasons, smart progress tracking — free and ad-free.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">📅 Lehrlingskalender</h3>
+      <p align="center">
+        <a href="https://play.google.com/store/apps/details?id=org.afi_ipl.apprenticecalendar"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store" /></a>
+      </p>
+      <p align="center">Android app built in cooperation with <a href="https://www.afi-ipl.org/de/">AFI-IPL South Tyrol</a>. Work time tracking, labor rights handbook and direct contact with union experts — all in one app.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🎮 VGame</h3>
+      <p align="center">
+        <a href="https://github.com/LuisTschurtschenthaler/VGame"><img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+      </p>
+      <p align="center">Minecraft-inspired voxel engine built from scratch. Custom world generation, block system and real-time rendering with OpenGL.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%"><b>Languages</b></td>
+      <td align="center" width="25%"><b>Frontend</b></td>
+      <td align="center" width="25%"><b>Backend</b></td>
+      <td align="center" width="25%"><b>Tools</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=ts,cs&theme=dark" alt="TypeScript, C#" /><br/>
+        <img src="https://skillicons.dev/icons?i=kotlin,cpp&theme=dark" alt="Kotlin, C++" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" alt="React, Next.js" /><br/>
+        <img src="https://skillicons.dev/icons?i=tailwind,html&theme=dark" alt="Tailwind, HTML" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=dotnet,nodejs&theme=dark" alt=".NET, Node.js" /><br/>
+        <img src="https://skillicons.dev/icons?i=prisma,mysql&theme=dark" alt="Prisma, MySQL" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=githubactions,vercel&theme=dark" alt="GitHub Actions, Vercel" /><br/>
+        <img src="https://skillicons.dev/icons?i=vscode,androidstudio&theme=dark" alt="VS Code, Android Studio" /><br/>
+        <img src="https://skillicons.dev/icons?i=gradle&theme=dark" alt="Gradle" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisTschurtschenthaler&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</div>
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luistschurtschenthaler/luistschurtschenthaler/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luistschurtschenthaler/luistschurtschenthaler/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/luistschurtschenthaler/luistschurtschenthaler/output/github-snake.svg" />
 </picture>
+
+<div align="center">
+  <br/>
+
+  ```
+  "Code is my instrument; execution is my signature."
+  ```
+
+  <br/>
+
+  <a href="mailto:business.luis.tschurtschenthaler@gmail.com">
+    <img src="https://img.shields.io/badge/Let's_work_together-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=LuisTschurtschenthaler&style=flat&color=58A6FF&label=Profile+Views" alt="Profile Views" />
+</div>
