@@ -107,14 +107,6 @@ Full-stack developer building apps across web, mobile & desktop.
 </picture>
 
 <div align="center">
-  <br/>
-
-  ```
-  "Code is my instrument; execution is my signature."
-  ```
-
-  <br/>
-
   <a href="mailto:business.luis.tschurtschenthaler@gmail.com">
     <img src="https://img.shields.io/badge/Let's_work_together-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
