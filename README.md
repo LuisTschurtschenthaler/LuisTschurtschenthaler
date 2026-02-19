@@ -111,7 +111,7 @@ Full-stack developer building apps across web, mobile & desktop.
     <img src="https://img.shields.io/badge/Let's_work_together-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
-  <br/><br/>
+  <br/>
 
   <img src="https://komarev.com/ghpvc/?username=LuisTschurtschenthaler&style=flat&color=58A6FF&label=Profile+Views" alt="Profile Views" />
 </div>
