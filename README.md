@@ -36,7 +36,7 @@ Full-stack developer building apps across web, mobile & desktop.
       <p align="center">
         <a href="https://play.google.com/store/apps/details?id=org.afi_ipl.apprenticecalendar"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store" /></a>
       </p>
-      <p align="center">Android app built in cooperation with <a href="https://www.afi-ipl.org/de/">AFI-IPL South Tyrol</a>. Work time tracking, labor rights handbook and direct contact with union experts — all in one app.</p>
+      <p align="center">Android app built in cooperation with <a href="https://www.afi-ipl.org/de/">AFI-IPL</a> South Tyrol. Work time tracking, labor rights handbook and direct contact with union experts — all in one app.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
