@@ -26,7 +26,7 @@
       <p align="center">
         <a href="https://www.waidblick.it/de"><img src="https://img.shields.io/badge/Visit_Website-58A6FF?style=for-the-badge&logoColor=white" alt="Visit" /></a>
       </p>
-      <p align="left">Free learning platform for the South Tyrolean hunting exam. Features all official exam questions, interactive hunting seasons, and smart progress tracking — completely free and ad-free.</p>
+      <p align="left">Free learning platform for the South Tyrolean hunting exam. Features all official exam questions, interactive hunting seasons, and smart progress tracking - completely free and ad-free.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white" />
